@@ -1,4 +1,5 @@
-# KGX-AUB
+# KGX-AUB (KGX A union B)
+
 Given two kgx sets, 
 A and B, this program generates a new kgx file that contains:
 * All nodes from A
